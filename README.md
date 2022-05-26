@@ -1,0 +1,4 @@
+- 👋 Olá, sou @erk1337.
+- 👀 Estou interessado em aprender mais sobre HTML, CSS, JS, Python e talvez outras coisas...
+- 🌱 Atualmente estou aprendendo HTML e CSS.
+- 📫 Contatos e batota do tipo: erkgot13@gmail.com.
